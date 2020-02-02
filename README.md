@@ -6,6 +6,7 @@
 
 3) Na configuração "$config['base_url']" digite a url base do projeto
    - Ex: $config['base_url'] = 'http://localhost/crud_ci/';
+	- A url base precisa ter o mesmo nome da pasta do projeto;
 
 4) Importe o arquivo ".sql" que está na pasta "database" para seu servidor local;
 
